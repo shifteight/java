@@ -94,6 +94,7 @@
                 <children xsi:type="basic:PartSashContainer" xmi:id="_wDX40sfsEeWRQ7GWQDE5Aw" containerData="2500" selectedElement="_wDX408fsEeWRQ7GWQDE5Aw">
                   <children xsi:type="basic:PartStack" xmi:id="_wDX408fsEeWRQ7GWQDE5Aw" elementId="org.eclipse.mylyn.tasks.ui.views.tasksMStack" containerData="5000" selectedElement="_wDX41MfsEeWRQ7GWQDE5Aw">
                     <tags>active</tags>
+                    <tags>noFocus</tags>
                     <children xsi:type="advanced:Placeholder" xmi:id="_wDX41MfsEeWRQ7GWQDE5Aw" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" ref="_wDXRsMfsEeWRQ7GWQDE5Aw"/>
                   </children>
                   <children xsi:type="basic:PartStack" xmi:id="_wDX41cfsEeWRQ7GWQDE5Aw" elementId="right" containerData="5000" selectedElement="_wDX41sfsEeWRQ7GWQDE5Aw">
@@ -256,7 +257,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_v5aEcMfsEeWRQ7GWQDE5Aw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_2bFowMfsEeWoBIYaKf6cjQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_vlyk9MfsEeWRQ7GWQDE5Aw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_yxLaoMgfEeW0OLlMQhcpzQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_vlyk9MfsEeWRQ7GWQDE5Aw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_v5aEccfsEeWRQ7GWQDE5Aw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -277,7 +278,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_v5argsfsEeWRQ7GWQDE5Aw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_2bIFAMfsEeWoBIYaKf6cjQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_vlxW3MfsEeWRQ7GWQDE5Aw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_yxNP0sgfEeW0OLlMQhcpzQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_vlxW3MfsEeWRQ7GWQDE5Aw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_v5arg8fsEeWRQ7GWQDE5Aw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -751,7 +752,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_vmgWnsfsEeWRQ7GWQDE5Aw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.pde.runtime.LogView"/>
     </bindings>
-    <bindings xmi:id="_2Kox8cfsEeWoBIYaKf6cjQ" keySequence="COMMAND+CTRL+F" command="_vmoSY8fsEeWRQ7GWQDE5Aw"/>
+    <bindings xmi:id="_yeu_wMgfEeW0OLlMQhcpzQ" keySequence="COMMAND+CTRL+F" command="_vmoSY8fsEeWRQ7GWQDE5Aw"/>
   </bindingTables>
   <bindingTables xmi:id="_vmP35cfsEeWRQ7GWQDE5Aw" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_vl22YcfsEeWRQ7GWQDE5Aw">
     <bindings xmi:id="_vmP35sfsEeWRQ7GWQDE5Aw" keySequence="ALT+SHIFT+ARROW_DOWN" command="_vlzMKsfsEeWRQ7GWQDE5Aw"/>
@@ -858,7 +859,7 @@
     <bindings xmi:id="_vmcsNcfsEeWRQ7GWQDE5Aw" keySequence="COMMAND+1" command="_vl0aGMfsEeWRQ7GWQDE5Aw"/>
   </bindingTables>
   <bindingTables xmi:id="_vmo5dMfsEeWRQ7GWQDE5Aw" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_vlWgB8fsEeWRQ7GWQDE5Aw">
-    <bindings xmi:id="_2Kox8sfsEeWoBIYaKf6cjQ" keySequence="M1+W" command="_vmo5csfsEeWRQ7GWQDE5Aw"/>
+    <bindings xmi:id="_yeu_wcgfEeW0OLlMQhcpzQ" keySequence="M1+W" command="_vmo5csfsEeWRQ7GWQDE5Aw"/>
   </bindingTables>
   <bindingTables xmi:id="_wDJPQcfsEeWRQ7GWQDE5Aw" bindingContext="_wDJPQMfsEeWRQ7GWQDE5Aw"/>
   <bindingTables xmi:id="_wDJPQ8fsEeWRQ7GWQDE5Aw" bindingContext="_wDJPQsfsEeWRQ7GWQDE5Aw"/>
