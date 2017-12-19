@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2002-12-12T00:14:02</date>
+  <millis>1039677242522</millis>
+  <sequence>0</sequence>
+  <logger>my.log</logger>
+  <level>INFO</level>
+  <class>LoggingDemo</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Our first logging message</message>
+</record>
+<record>
+  <date>2002-12-12T00:14:03</date>
+  <millis>1039677243083</millis>
+  <sequence>1</sequence>
+  <logger>my.log</logger>
+  <level>SEVERE</level>
+  <class>LoggingDemo</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Something terrible happened</message>
+</record>
+</log>

@@ -1,0 +1,8 @@
+Kevin
+20000
+Daisy
+18000
+Tom
+20000
+Susan
+12000

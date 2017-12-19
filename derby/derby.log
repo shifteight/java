@@ -1,0 +1,35 @@
+Apache Derby Network Server - 10.2.1.7 - (453926) started and ready to accept connections on port 1527 at 2008-01-11 09:06:41.788 GMT 
+----------------------------------------------------------------
+2008-01-11 09:08:20.390 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.1.7 - (453926): instance c013800d-0117-6819-dfd4-0000510b7033
+on database directory D:\Work\Java\derby\car_database  
+
+Database Class Loader started - derby.database.classpath=''
+
+2008-01-11 09:08:30.745 GMT:
+Shutting down instance c013800d-0117-6819-dfd4-0000510b7033
+----------------------------------------------------------------
+2008-01-11 09:08:30.875 GMT Thread[DRDAConnThread_3,5,main] (DATABASE = car_database), (DRDAID = {2}), Database 'car_database' shutdown.
+----------------------------------------------------------------
+2008-01-11 09:09:35.999 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.1.7 - (453926): instance cf35407a-0117-6819-dfd4-0000510b7033
+on database directory D:\Work\Java\derby\car_database  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2008-01-11 09:44:38.392 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.1.7 - (453926): instance 7e41c0d6-0117-6819-dfd4-0000510b7033
+on database directory D:\Work\Java\derby\expense_data  
+
+Database Class Loader started - derby.database.classpath=''
+
+2008-01-11 09:44:45.813 GMT:
+Shutting down instance 7e41c0d6-0117-6819-dfd4-0000510b7033
+----------------------------------------------------------------
+2008-01-11 09:44:45.833 GMT Thread[DRDAConnThread_10,5,main] (DATABASE = expense_data), (DRDAID = {29}), Database 'expense_data' shutdown.
+----------------------------------------------------------------
+2008-01-11 09:45:01.966 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.1.7 - (453926): instance d2c8c143-0117-6819-dfd4-0000510b7033
+on database directory D:\Work\Java\derby\expense_data  
+
+Database Class Loader started - derby.database.classpath=''

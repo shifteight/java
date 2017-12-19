@@ -1,0 +1,28 @@
+Dallas Cowboys
+21
+San Francisco 49ers
+30
+Denver Broncos
+34
+Oakland Raiders
+0
+New York Giants
+14
+Tampa Bay Buccaneers
+10
+Chicago Bears
+21
+Atlanta Falcons
+24
+Philadelphia Eagles
+28
+Green Bay Packers
+35
+Miami Dolphins
+17
+New England Patriots
+20
+Cleveland Browns
+12
+Minnesota Vikings
+41
