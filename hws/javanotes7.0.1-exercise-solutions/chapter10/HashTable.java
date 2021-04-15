@@ -177,8 +177,8 @@ public class HashTable {
       ListNode curr = prev.next;  // For traversing the list,
                                   // starting from the second node.
       while (curr != null && ! curr.key.equals(key)) {
-         curr = curr.next;
          prev = curr;
+         curr = curr.next;
       }
       
       // If we get to this point, then either curr is null,
